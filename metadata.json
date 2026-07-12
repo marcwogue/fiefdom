@@ -1,0 +1,6 @@
+{
+  "name": "Fiefdom Quest",
+  "description": "Un jeu communautaire féodal avec des tâches générées par l'IA, un système de taxes en cascade, des duels de devinettes pour usurper les titres, et une carte de la communauté.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
